@@ -1,5 +1,5 @@
-## Magisk (dbc8bed2) (19406)
-- Properly conform to QCDT format
+## Magisk (c42a51dc) (19407)
+- Support patching Exynos DTBH DTB format
 
-## Magisk Manager (dbc8bed2) (241)
-- Fix Flash Activity not responding to user interaction (back / save logs)
+## Magisk Manager (c42a51dc) (242)
+- Updated some internal links
