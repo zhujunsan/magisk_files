@@ -1,5 +1,5 @@
-## Magisk (c42a51dc) (19407)
-- Support patching Exynos DTBH DTB format
+## Magisk (59fd38bb) (20001)
+- Sync with public release
 
-## Magisk Manager (c42a51dc) (242)
-- Updated some internal links
+## Magisk Manager (59fd38bb) (244)
+- Sync with public release
