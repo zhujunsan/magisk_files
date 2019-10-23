@@ -14,5 +14,9 @@
   },
   "uninstaller": {
     "link": "https://raw.githubusercontent.com/topjohnwu/magisk_files/canary/magisk-uninstaller.zip"
+  },
+  "stub": {
+    "versionCode": "1",
+    "link": "https://raw.githubusercontent.com/topjohnwu/magisk_files/canary/stub-release.apk"
   }
 }
