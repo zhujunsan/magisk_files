@@ -3,9 +3,8 @@
 - Introduce component agnostic communication (to support stubs)
 - Add support for SPRD DTBs
 
-## Magisk Manager (5c7b5952) (248)
-- Support using stub APKs to load full Magisk Manager.
-Magisk Manager will use stub APKs to hide itself when it is feasible
-- When hiding Magisk Manager, the new hidden app will be signed with
-a randomly generated key to prevent detection
-- Support customizing app name when hiding Magisk Manager
+## Magisk Manager (7fc7809c) (249)
+- **If you were using stubs, you have to restore Magisk Manager and then re-hide the app in order to update due to a bug in the previous version!!**
+- Fix upgrading main app in stub
+- Add support to upgrade stub app if available
+- Fix stub APKs unable to receive root requests
