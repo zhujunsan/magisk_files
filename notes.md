@@ -3,8 +3,7 @@
 - Introduce component agnostic communication (to support stubs)
 - Add support for SPRD DTBs
 
-## Magisk Manager (7fc7809c) (249)
-- **If you were using stubs, you have to restore Magisk Manager and then re-hide the app in order to update due to a bug in the previous version!!**
-- Fix upgrading main app in stub
-- Add support to upgrade stub app if available
-- Fix stub APKs unable to receive root requests
+## Magisk Manager (97a691ce) (250)
+- Temporary disable Google Play Protect when installing repackaged Magisk Manager.
+This should fix 99% of "Magisk Manager hide failed" error
+- Update signature dname to a generic one (so no traces to Magisk)

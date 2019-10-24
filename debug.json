@@ -1,7 +1,7 @@
 {
   "app": {
-    "version": "7.4.0-7fc7809c",
-    "versionCode": "249",
+    "version": "7.4.0-97a691ce",
+    "versionCode": "250",
     "link": "https://raw.githubusercontent.com/topjohnwu/magisk_files/canary/app-debug.apk",
     "note": "https://raw.githubusercontent.com/topjohnwu/magisk_files/canary/notes.md"
   },
