@@ -1,5 +1,5 @@
-## Magisk (31e003bd) (20004)
-- Fix some A/B devices unable to boot into recovery
+## Magisk (7da97489) (20101)
+- Sync with public release
 
-## Magisk Manager (31e003bd) (252)
-- Hugely improve stub loading full app mechanism
+## Magisk Manager (7da97489) (254)
+- Sync with public release
