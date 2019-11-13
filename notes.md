@@ -1,8 +1,7 @@
-## Magisk (a6e62e07) (20102)
-- Use ContentProvider to communicate with Magisk Manager
-- Several script fixes for addon.d, props to @osm0sis
+## Magisk (9b297b75) (20104)
+- Properly solve the connection problem: first use ContentProvider method, then fallback to Activity mode if failure
+- Support managing apps not installed in owner profile in multiuser owner managed mode
 
-## Magisk Manager (a6e62e07) (255)
-- Fix app upgrades when using stubs
-- Sort modules in alphabetical order, ignoring case
-- Support receiving data from `magiskd` with ContentProvider
+## Magisk Manager (9b297b75) (256)
+- Fix `BootSigner` unable to run on pre Android 9.0 devices
+- Rewritten parts of code for handling su requests and magisk database
