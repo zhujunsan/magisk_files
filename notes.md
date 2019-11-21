@@ -1,6 +1,9 @@
-## Magisk (b29f0ca4) (20105)
-- Move su logs out of magisk database
+## Magisk (474cc7d5) (20107)
+- Support some obscure Samsung boot headers
+- Fixed `kmsg` logging in `magiskinit`
+- Fix `magisk.db` error, causing impersistent root permissions
 
-## Magisk Manager (b29f0ca4) (257)
-- Store su logs in app internal data
-- Support using BiometricPrompt for su requests (Face Unlock)
+## Magisk Manager (474cc7d5) (259)
+- Move biometric settings higher in the menu
+- Fix root log items not refreshed properly
+- Better UI representation in different environments
