@@ -1,6 +1,5 @@
-## Magisk (7fa2625a) (20110)
-- Support pre-init sepolicy patches
-- Remove legacy SAR mode
+## Magisk (15bd2da8) (20201)
+- Sync with release build
 
-## Magisk Manager (7fa2625a) (264)
-- Handle sepolicy patch files when disable/remove modules
+## Magisk Manager (15bd2da8) (266)
+- Sync with release build
