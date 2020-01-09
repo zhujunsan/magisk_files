@@ -1,5 +1,5 @@
-## Magisk (242e64d7) (20202)
-- Fix `lz4_legacy` decompression in `magiskboot`. This should fix bootloops on Razer and some LG devices.
+## Magisk (0b41cd85) (20301)
+- Sync with release build
 
-## Magisk Manager (15bd2da8) (266)
+## Magisk Manager (0b41cd85) (268)
 - Sync with release build
