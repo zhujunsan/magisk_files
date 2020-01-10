@@ -6,11 +6,11 @@
     "note": "https://raw.githubusercontent.com/topjohnwu/magisk_files/canary/notes.md"
   },
   "magisk": {
-    "version": "20.4-0b41cd85",
-    "versionCode": "20301",
+    "version": "20.4-b39f4075",
+    "versionCode": "20302",
     "link": "https://raw.githubusercontent.com/topjohnwu/magisk_files/canary/magisk-release.zip",
     "note": "https://raw.githubusercontent.com/topjohnwu/magisk_files/canary/notes.md",
-    "md5": "7799d0c51e3bef301aa260d9583b76e5"
+    "md5": "00fd136b06672e9bce5ab55b0943e8a2"
   },
   "uninstaller": {
     "link": "https://raw.githubusercontent.com/topjohnwu/magisk_files/canary/magisk-uninstaller.zip"
