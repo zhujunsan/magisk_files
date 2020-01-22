@@ -1,7 +1,8 @@
-## Magisk (b39f4075) (20302)
-- Dynamic link `libsqlite.so`.
-This allows Magisk to run on Android 10 without wrapper scripts.
+## Magisk (0dc9f5c3) (20303)
+- Full SELinux support added in Magisk's built-in BusyBox
+- Fix full device meltdown when calling `magiskinit` in A-only 2SI devices (or A/B with recovery like OP7T)
 
-## Magisk Manager (b39f4075) (269)
-- Remove legacy support (now requires v19.0)
-- Fix internal Magisk paths
+## Magisk Manager (0dc9f5c3) (270)
+- Material Design 2.0!
+- Enjoy the redesign guys, but expect some minor bugs
+- But isn't that why Canary Channels are fun? 😛
