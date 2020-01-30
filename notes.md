@@ -2,6 +2,8 @@
 - Full SELinux support added in Magisk's built-in BusyBox
 - Fix full device meltdown when calling `magiskinit` in A-only 2SI devices (or A/B with recovery like OP7T)
 
-## Magisk Manager (1e2de1bb) (272)
-- Actually fix crashes when navigating to module section
-- Fix stub app unable to load release built APK
+## Magisk Manager (497efc9f) (273)
+- Fix duplicating messages in modules section
+- Fix APK built with release flag unable to hide manager (caused by compiler bug 😅)
+- Add new theme (Fraxure), which matches the legacy design color scheme
+- Make special characters in scrambled text (e.g. animation in flash screen) match character width
