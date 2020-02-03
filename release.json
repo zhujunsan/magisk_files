@@ -1,16 +1,16 @@
 {
   "app": {
-    "version": "7.5.2-497efc9f",
-    "versionCode": "273",
+    "version": "7.5.2-ed58cf95",
+    "versionCode": "274",
     "link": "https://raw.githubusercontent.com/topjohnwu/magisk_files/canary/app-release.apk",
     "note": "https://raw.githubusercontent.com/topjohnwu/magisk_files/canary/notes.md"
   },
   "magisk": {
-    "version": "20.4-0dc9f5c3",
-    "versionCode": "20303",
+    "version": "20.4-ed58cf95",
+    "versionCode": "20304",
     "link": "https://raw.githubusercontent.com/topjohnwu/magisk_files/canary/magisk-release.zip",
     "note": "https://raw.githubusercontent.com/topjohnwu/magisk_files/canary/notes.md",
-    "md5": "de9f0ca6bc2af902d287020dded4d561"
+    "md5": "5d167ab0cf1fe476af61b610a8f17cd9"
   },
   "uninstaller": {
     "link": "https://raw.githubusercontent.com/topjohnwu/magisk_files/canary/magisk-uninstaller.zip"

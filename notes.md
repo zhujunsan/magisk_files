@@ -1,9 +1,13 @@
-## Magisk (0dc9f5c3) (20303)
-- Full SELinux support added in Magisk's built-in BusyBox
-- Fix full device meltdown when calling `magiskinit` in A-only 2SI devices (or A/B with recovery like OP7T)
+## Magisk (ed58cf95) (20304)
+- Support device dtbs that require specific paddings to boot
+- Fix mounting system in `magiskinit` on devices using Tegra partition naming
+- Improve scripts for installation on Android 10 in custom recoveries
+- Remove erroneously forced core-only mode pre KitKat (Jellybean support modules!)
+- Fix `libsqlite.so` dynamic loading on some devices
+- Support `genfscon` rules in `magiskpolicy`
+- Fix Android version detection on some dumb ass devices (e.g. Realme)
+- Workaround `readlinkat` returning bogus values on dumb ass x86 devices
 
-## Magisk Manager (497efc9f) (273)
-- Fix duplicating messages in modules section
-- Fix APK built with release flag unable to hide manager (caused by compiler bug 😅)
-- Add new theme (Fraxure), which matches the legacy design color scheme
-- Make special characters in scrambled text (e.g. animation in flash screen) match character width
+## Magisk Manager (ed58cf95) (274)
+- Fix uncentered dialogs
+- Make su request match app theme
