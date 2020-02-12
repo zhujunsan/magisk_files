@@ -1,8 +1,6 @@
-## Magisk (740559e3) (20305)
-- Better addon.d support, credits to @osm0sis
-- Add new option `-o standalone` to BusyBox, more on this in future releases
+## Magisk (ce7cb1ee) (20306)
+- Just a new build with shorter version name for canary builds
 
-## Magisk Manager (740559e3) (275)
-- New home screen design
-- Properly report device info in home screen for installation guidance
-- Set `FLAG_SECURE` window flag in su request screen to prevent tapjacking
+## Magisk Manager (ce7cb1ee) (276)
+- Fix release APK UI breakage caused by dynamic resource lookup in `ConstraintLayout.Barrier`
+- Update home screen layout
