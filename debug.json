@@ -17,6 +17,6 @@
   },
   "stub": {
     "versionCode": "7",
-    "link": "https://raw.githubusercontent.com/topjohnwu/magisk_files/canary/stub-debug.apk"
+    "link": "https://raw.githubusercontent.com/topjohnwu/magisk_files/canary/stub-release.apk"
   }
 }
