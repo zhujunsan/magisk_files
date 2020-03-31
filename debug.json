@@ -1,7 +1,7 @@
 {
   "app": {
-    "version": "be8479fd",
-    "versionCode": "280",
+    "version": "06a1d084",
+    "versionCode": "281",
     "link": "https://raw.githubusercontent.com/topjohnwu/magisk_files/canary/app-debug.apk",
     "note": "https://raw.githubusercontent.com/topjohnwu/magisk_files/canary/notes.md"
   },
@@ -16,7 +16,7 @@
     "link": "https://raw.githubusercontent.com/topjohnwu/magisk_files/canary/magisk-uninstaller.zip"
   },
   "stub": {
-    "versionCode": "8",
+    "versionCode": "9",
     "link": "https://raw.githubusercontent.com/topjohnwu/magisk_files/canary/stub-release.apk"
   }
 }
