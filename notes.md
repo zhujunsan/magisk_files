@@ -1,7 +1,5 @@
-## Magisk (765d5d97) (20402)
-- Android 11 support 🎉
-- Brand new module mounting implementation. Please test and report module issues!
-- Fix finding NAND boot image on some devices
+## Magisk (e219867c) (20403)
+- Swap out SARFirstStageInit hack to a new one 😜
 
 ## Magisk Manager (765d5d97) (283)
 - Fix crashing in module screen on some devices
