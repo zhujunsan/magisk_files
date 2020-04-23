@@ -1,7 +1,6 @@
-## Magisk (8ca5a048) (20405)
-- Fix a small bug in module mounting algorithm
-- Update SELinux rules for Android 11
-- Support modifying files in `/system_ext`
+## Magisk (2468f5a6) (20406)
+- Handle a rare edge case in module mounting logic
+- Fix custom sepolicy patches for modules
 
 ## Magisk Manager (765d5d97) (283)
 - Fix crashing in module screen on some devices
