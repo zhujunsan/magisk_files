@@ -1,6 +1,6 @@
-## Magisk (2468f5a6) (20406)
-- Handle a rare edge case in module mounting logic
-- Fix custom sepolicy patches for modules
+## Magisk (2aede977) (20407)
+- Fix yet another module mounting issue
+- Fix boot image detection on some devices
 
 ## Magisk Manager (765d5d97) (283)
 - Fix crashing in module screen on some devices
