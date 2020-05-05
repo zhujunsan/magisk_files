@@ -1,9 +1,10 @@
-## Magisk (2aede977) (20407)
-- Fix yet another module mounting issue
-- Fix boot image detection on some devices
+## Magisk (87de0e7a) (20408)
+- Fix overlay.d support for SAR
+- Check persist free space for module `sepolicy.rule`
+- Fix `magisk --remove-modules` daemon crashes
+- New device tree fstab support implementation: installer no longer patches fstab to redirect system mount point
+- Remove all code for dtb/dtbo/dtbs partition patching
 
-## Magisk Manager (765d5d97) (283)
-- Fix crashing in module screen on some devices
-- Show updates at the top, installed modules in the middle, online modules at the bottom
-- Fix shortcuts
-- Support `/sbin` non-exist setups (Android 11)
+## Magisk Manager (87de0e7a) (284)
+- Update internal scripts
+- Remove all code for dtb/dtbo/dtbs partition patching
