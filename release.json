@@ -7,10 +7,10 @@
   },
   "magisk": {
     "version": "122b4d66",
-    "versionCode": "20410",
+    "versionCode": "20411",
     "link": "https://raw.githubusercontent.com/topjohnwu/magisk_files/canary/magisk-release.zip",
     "note": "https://raw.githubusercontent.com/topjohnwu/magisk_files/canary/notes.md",
-    "md5": "d820d6de5cd1ca6033d0af7ab7facf1b"
+    "md5": "769179856b05c12adcef358545500859"
   },
   "uninstaller": {
     "link": "https://raw.githubusercontent.com/topjohnwu/magisk_files/canary/magisk-uninstaller.zip"
