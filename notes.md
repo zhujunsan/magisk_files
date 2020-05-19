@@ -1,7 +1,6 @@
-## Magisk (99ef2062) (20412)
-- Fix bug in collect module logic, should fix module unable to disable
-- Move vendor prop hiding to boot completed to prevent bootlooping OnePlus devices
-- Remove prop `ro.build.selinux` for hiding since it no longer exists in AOSP, and multiple dumb ass detections expect different values
+## Magisk (fc1844b4) (20413)
+- Fix a typo in property hiding code causing incorrect prop values
+- Update policy for handling `/data/adb` to prevent bootloop after wiping data with Magisk installed
 
 ## Magisk Manager (87de0e7a) (284)
 - Update internal scripts
