@@ -1,8 +1,6 @@
-## Magisk (3c783448) (20417)
-- Update `busybox` to workaround some restrictions in Samsung kernels
+## Magisk (a0b47f3c) (20418)
+- Fix a bug causing crashes in MagiskHide
 
-## Magisk Manager (3c783448) (286)
-- Fix issues with building APK with JDK 9+
-- Remove core only mode from the app
-- Add padding to hide screen to work around UI elements blocked by navigation bar
-- Disable volume keys in flash screen for better user experience when interacting with modules using volume keys for switching options
+## Magisk Manager (a0b47f3c) (287)
+- Fix the bug causing empty installed module list
+- Fix a bug that messes up app flow when restarting activities (e.g. changing theme)
