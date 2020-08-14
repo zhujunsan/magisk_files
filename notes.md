@@ -4,8 +4,8 @@
 - Keep module disabled when a module is upgraded
 - Inherit app namespace before isolating namespace (if supported)
 
-## Magisk Manager (6c8fe465) (292)
-- Workaround crashes on older Android devices (AOSP documentation error)
-- Fix crashes when there is no internet connection
-- Sign APKs with Signature Scheme v2 when repackaging (Android 11 requires v2)
-- Many UI tweaks for better usability
+## Magisk Manager (eec19ba9) (293)
+- Fix dialog internal custom view being cut off
+- Fix settings fragment initial state obscured by toolbar
+- Fix Markdown rendering
+- Fix incorrect databinding setup in hide manager dialog
