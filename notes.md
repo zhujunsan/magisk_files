@@ -4,6 +4,8 @@
 - Keep module disabled when a module is upgraded
 - Inherit app namespace before isolating namespace (if supported)
 
-## Magisk Manager (d6062944) (295)
-- Hide non relevant options in install screen
-- Updated `snet.jar` to prevent crashes on release builds
+## Magisk Manager (7e133b0c) (296)
+- Fix dialogs getting messed up when hiding keyboard multiple times
+- Make sure SafetyNet fragment is exited when the dialog is dismissed
+- Properly tested and tweaked to run on Android 4.2+
+- Internal code cleanups
