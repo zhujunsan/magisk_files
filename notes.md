@@ -4,8 +4,8 @@
 - Keep module disabled when a module is upgraded
 - Inherit app namespace before isolating namespace (if supported)
 
-## Magisk Manager (7e133b0c) (296)
-- Fix dialogs getting messed up when hiding keyboard multiple times
-- Make sure SafetyNet fragment is exited when the dialog is dismissed
-- Properly tested and tweaked to run on Android 4.2+
-- Internal code cleanups
+## Magisk Manager (fbaf2bde) (297)
+- Fix several bugs in manager upgrade logic.
+It should now successfully upgrade under all circumstances after this build.
+If you ran into "cannot parse package" error, clear the app cache and try again.
+- Allow arbitrary package name and app label length for repackaging
